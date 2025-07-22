@@ -162,6 +162,6 @@ cityInput.addEventListener("keyup", function (event) {
 
       getWeather();
     }
-    else document.getElementById("locationName").innerHTML = "Enter a city name...";
+    else document.getElementById("locationName").innerHTML = "Enter a city or countries name...";
   }
 });
